@@ -1,3 +1,24 @@
 [submodule "Android-TrabajoPractico1"]
 	path = Android-TrabajoPractico1
 	url = https://github.com/EzequielZion/Android-TrabajoPractico1.git
+[submodule "Android-TrabajoPractico2"]
+	path = Android-TrabajoPractico2
+	url = https://github.com/EzequielZion/Android-TrabajoPractico2.git
+[submodule "Android-TrabajoPractico3"]
+	path = Android-TrabajoPractico3
+	url = https://github.com/EzequielZion/Android-TrabajoPractico3.git
+[submodule "Android-TrabajoPractico4"]
+	path = Android-TrabajoPractico4
+	url = https://github.com/EzequielZion/Android-TrabajoPractico4.git
+[submodule "Android-TrabajoPractico5"]
+	path = Android-TrabajoPractico5
+	url = https://github.com/EzequielZion/Android-TrabajoPractico5.git
+[submodule "Android-TrabajoPractico6"]
+	path = Android-TrabajoPractico6
+	url = https://github.com/EzequielZion/Android-TrabajoPractico6.git
+[submodule "Android-TrabajoPractico7"]
+	path = Android-TrabajoPractico7
+	url = https://github.com/EzequielZion/Android-TrabajoPractico7.git
+[submodule "Android-TrabajoPractico8"]
+	path = Android-TrabajoPractico8
+	url = https://github.com/EzequielZion/Android-TrabajoPractico8.git
