@@ -22,3 +22,12 @@
 [submodule "Android-TrabajoPractico8"]
 	path = Android-TrabajoPractico8
 	url = https://github.com/EzequielZion/Android-TrabajoPractico8.git
+[submodule "Android-Prueba1erTrimestre"]
+	path = Android-Prueba1erTrimestre
+	url = https://github.com/EzequielZion/Android-Prueba1erTrimestre.git
+[submodule "Android-Prueba2doTrimestre"]
+	path = Android-Prueba2doTrimestre
+	url = https://github.com/EzequielZion/Android-Prueba2doTrimestre.git
+[submodule "Android-Prueba3erTrimestre"]
+	path = Android-Prueba3erTrimestre
+	url = https://github.com/EzequielZion/Android-Prueba3erTrimestre.git
